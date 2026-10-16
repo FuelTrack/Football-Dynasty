@@ -5,9 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#140f24" />
     <title>Football Dynasty</title>
+    <style>html,body{margin:0;min-height:100%;background:#0b0912;color:#f7f5ff;font-family:system-ui,sans-serif}#boot-status{min-height:100vh;display:grid;place-items:center;padding:24px;box-sizing:border-box}#boot-status>div{max-width:520px;background:#191128;border:1px solid #49316c;padding:30px;border-radius:20px}#boot-status h1{margin:0 0 10px}#boot-status p{line-height:1.6;color:#c8bddb}#boot-status a{color:#c4a5ff}</style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <div id="boot-status"><div><h1>Football Dynasty</h1><p>Loading your football career…</p></div></div>
+    </div>
+    <script>
+      window.addEventListener('error', function (event) {
+        var status = document.getElementById('boot-status');
+        if (status) status.innerHTML = '<div><h1>Football Dynasty</h1><p>The game could not start. Please check the deployment status and refresh the page.</p><p>Error: ' + String(event.message || 'Unknown error').replace(/[<>&]/g, '') + '</p></div>';
+      });
+      window.setTimeout(function () {
+        var status = document.getElementById('boot-status');
+        if (status) status.innerHTML = '<div><h1>Football Dynasty</h1><p>The game is not loading. If you can see this message, the page itself is working but the game JavaScript is not running.</p><p>Open <a href="https://github.com/FuelTrack/Football-Dynasty/actions">GitHub Actions</a> to check deployment. Make sure Pages uses <strong>GitHub Actions</strong>, not a branch.</p></div>';
+      }, 5000);
+    </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
