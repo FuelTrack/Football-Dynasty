@@ -1,0 +1,697 @@
+{
+  "source": "openfootball/players",
+  "license": "CC0-1.0",
+  "scope": "Sample of nationality-based player records, not verified 2026-27 league rosters",
+  "players": [
+    {
+      "name": "Harry Howell",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2008
+    },
+    {
+      "name": "Tyler Jones",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2008
+    },
+    {
+      "name": "Matthew Taylor",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2008
+    },
+    {
+      "name": "Igor Tyjon",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2008
+    },
+    {
+      "name": "Freddie Simmonds",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2008
+    },
+    {
+      "name": "Bendito Mantato",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2008
+    },
+    {
+      "name": "Emilio Ballard-Matthews",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Simba Nyamwanza",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Marcell Washington",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Mikey Moore",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jake Richards",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Ollie Harrison",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Reece Munro",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Luke Craggs",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Theo Mawene",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Kaleb Dyke",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Trey Nyoni",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Amin Nabizada",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Chris Rigg",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jacob Devaney",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Sean Neave",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Harry Amass",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jayce Fitzgerald",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Rayan Oyebade",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jack Shorrock",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Trevan Sanusi",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Joe Brayson",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Shea Lacey",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Sekou Kaba",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Ethan Nwaneri",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jack Fletcher",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Leo Shahar",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jay Robinson",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Nicholas Michalski",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Sam Amissah",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Christian Chigozie",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Finn Cartwright",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Kian Noble",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Carter Pinnington",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Sol Sidibe",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jonathan Esenga",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jaden Dixon",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Ben Broggio",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Bless Akolbire",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Logan Watts",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Matteo Dashi",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Harrison Armstrong",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Preston Fearon",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Zavier Massiah-Edwards",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Kai Crampton",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Frankie Runham",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Saheed Olagunju",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Joshua King",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Zachary Baumann",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2007
+    },
+    {
+      "name": "Luca Furnell-Gill",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Sam Proctor",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Aidan Harris",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Conor McLeod",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jack Thompson",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Reece Clairmont",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Henry Bullen",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Thomas Bryant",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jaydan Kamason",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Matty Henderson-Hall",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Josh Miles",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Romelle Donovan",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jakai Bascoe-Fisher",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Daniel Oyetunde",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Matthew Young",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Cam'ron Ismail",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Kiano Dyer",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Amara Nallo",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Dan Casey",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Gabriel Caliste",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Joshua Ajala",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Micah Mbick",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Lucas Pitt",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Adam Harrison",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Louie Copley",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Joshua van Schoor",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Leo Ramirez-Espain",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Myles Lewis-Skelly",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Matty Warhurst",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ayden Heaven",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Caden Voice",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Anthony Munda",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Mason Cotcher",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fola Onanuga",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Aidan Elliott-Wheeler",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Kevin Mfuamba",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Justin Oboavwoduo",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jaydan Davidson",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Rocco Coyle",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ashton Missin",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Tyron Akpata",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jimmy Sinclair",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Osman Kamara",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Harrison Murray-Campbell",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Hindolo Mustapha",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Francis Gyimah",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Coby Small",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Josh Nichols",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Samuel Amo-Ameyaw",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Seb Boothe",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fin McAllister",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Dylan Charlton",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jayden Meghoma",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Cody Pennington",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Law McCabe",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ajay Matthews",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ishé Samuels-Smith",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Odin Samuels-Smith",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Aidan Dausch",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Joel Ndala",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Billy Blacker",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    }
+  ]
+}
