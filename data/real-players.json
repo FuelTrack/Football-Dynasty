@@ -1,7 +1,7 @@
 {
   "source": "openfootball/players",
   "license": "CC0-1.0",
-  "scope": "Sample of nationality-based player records, not verified 2026-27 league rosters",
+  "scope": "Nationality-based sample; current club and league membership not verified",
   "players": [
     {
       "name": "Harry Howell",
@@ -692,6 +692,3516 @@
       "position": "FWD",
       "nation": "England",
       "birthYear": 2006
+    },
+    {
+      "name": "Dondre Abraham",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Isaiah Dada-Mascoll",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Michael Golding",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Archie Whitehall",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Bobby Amartey",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Zach Abbott",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Reiss Denny",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Lakyle Samuel",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Josh-Kofi Acheampong",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Andrew Buah",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Zaide Took-Oxley",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Lewis Miley",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jayden Joseph",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Favour Fawunmi",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Tristan Thomas",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Josh O'Brien",
+      "position": "DEF",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Harvey Kirby-Moore",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Charlie Lennon",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jed Meerholz",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Tom Watson",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fabian Reynolds",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Romari Forde",
+      "position": "FWD",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Harry Hawkins",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Daniel Rigge",
+      "position": "MID",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "Harrison Rhone",
+      "position": "GK",
+      "nation": "England",
+      "birthYear": 2006
+    },
+    {
+      "name": "David Otorbi",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2007
+    },
+    {
+      "name": "Buba Sangaré",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2007
+    },
+    {
+      "name": "Lamine Yamal",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2007
+    },
+    {
+      "name": "Iván Corralejo",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2007
+    },
+    {
+      "name": "Sydney Osazuwa",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2007
+    },
+    {
+      "name": "Adrián Arnu",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2007
+    },
+    {
+      "name": "Pau Cubarsí",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jhafets",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Victor Musa",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Hugo Barrachina",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Hugo Martínez",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Héctor Fort",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Rodrigo Marina",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Carlos Jiménez",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Dani Muñoz",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Alejandro Morata",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fran Árbol",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Pablo García",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jorge Benito",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Daniel Budesca",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Paco Esteban",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jon Martín",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "David Carballo",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Marco Esteban",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Enric García",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Borja Cortina",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Pau Prim",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jaime Vázquez",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Javier Díaz",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Marc Guiu",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2006
+    },
+    {
+      "name": "Mario Guilabert",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Bomba",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Aingeru Olabarrieta",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Siren Diao",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Adam Boayar",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jorge Castellanos",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Salvi Esquivel",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Victor Moreno",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Pablo Busto",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Álvaro García",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Assane Diao",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Llorenç Serred",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alberto Risco",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Rubén Montero",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Carles Sogorb",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Dani Rodríguez",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Adrián Sanmartín",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Dani Pérez",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Carlos Espí",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Fran González",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Marcos Fernández",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Andrés Palacios",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Antonio Salguero",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Junior Bita",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Joel Casals",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Lucas Terrer",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ferran Quetglas",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Javier Boñar",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Eliezer Mayenda",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Álex Jiménez",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Diego Menéndez",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Pau Navarro",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Íñigo Arguibide",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alberto Collado",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Iván Garriel",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Adrián Liso",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Darío Frey",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Javi Moral",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jeremy Arévalo",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Edgar Alcañiz",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Iker Gil",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Rodrigo Mendoza",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Michael Dacosta Gonzalez",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Marcos Solís",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Nono",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Juan Sabater",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Gaizka García",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Vicent Abril",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alejandro Lozano",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Nordin",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Sergio Mestre",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Simo Wassim Keddari",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Rafel Bauzà",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Selvi",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Borja Montes",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Enrique Herrero García",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Xavi Grande",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Marcos Peña",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Didac Castellá",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mahamadou Susoho",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Borja Vázquez",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Sergio Rivarés",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Iker Bravo",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Josán Gordo",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Yarek Gasiorowski",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Julio Díaz",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jacobo Ramón",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Álvaro Gómez",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2005
+    },
+    {
+      "name": "Iker Vidal",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Íñigo García",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Unai Hernández",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Sergio Rodelas",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Alejandro Herranz",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Pau Sans",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Tomás Mendes",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Paco Sanz",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Carlos López",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Yago Paredes",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Asier Osambela",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Luismi Quirant",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Stefan Bajčetić",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Pau Mascaró",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Sergio Bernárdez",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Sergio Aragoneses Padilla",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Nacho Ferri",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Carles Garrido",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Iván Fresneda",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Javier Abbad",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Antonio Espigares",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Víctor Barberá",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Bruno Iribarne",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "José Luis Català",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Carlos Reina",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Gavi",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Héctor Criado",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Alejandro Sánchez",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Gorka Rivera",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Yayo",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Jorge San José",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "José Antonio de la Rosa",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Iñaki González",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Manu Bueno",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Ángel Ortiz",
+      "position": "MID",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Juan Álvarez Klein",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Alejandro Primo",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Jan Oliveras",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Brian Mahugo",
+      "position": "GK",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Diego Espinosa",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Alejandro Garnacho",
+      "position": "FWD",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Cristhian Mosquera",
+      "position": "DEF",
+      "nation": "Spain",
+      "birthYear": 2004
+    },
+    {
+      "name": "Matteo Palma",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2008
+    },
+    {
+      "name": "Rafael Pinto Pedrosa",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2007
+    },
+    {
+      "name": "Ben Nink",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2007
+    },
+    {
+      "name": "Ken Izekor",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2007
+    },
+    {
+      "name": "Francis Onyeka",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2007
+    },
+    {
+      "name": "Nils Ramming",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2007
+    },
+    {
+      "name": "Luis Engelns",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2007
+    },
+    {
+      "name": "Otto Stange",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2007
+    },
+    {
+      "name": "Lio Rothenhagen",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Oluwaseun Ogbemudia",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Finn Jeltsch",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Adriano Onyegbule",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "David Odogu",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Assan Ouédraogo",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Eric da Silva Moreira",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Bilal Yalçınkaya",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Farid Alfa-Ruprecht",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Nuha Jatta",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Mateo Kritzer",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Timo Schlieck",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Kjell Wätjen",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Paris Brunner",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Florian Pruhs",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Maxim Dal",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Bence Dárdai",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Max Schmitt",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Max Moerstedt",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2006
+    },
+    {
+      "name": "Paul Wanner",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Arijon Ibrahimović",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Medin Kojic",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Dennis Seimen",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ibrahim Maza",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ali-Eren Ersungur",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Noël Aséko Nkili",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tyler Doğan",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ben Schlicke",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Elias Baum",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Reno Münz",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Coby Ebere",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Elione Fernandes Neto",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Kevin Wiethaup",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mert Kömür",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Samuele Di Benedetto",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Efe-Kaan Sihlaroglu",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tom Bischof",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tim Schleinitz",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "David Savić",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Luke Gauer",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Sima Suso",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Leander Popp",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tim Hoffmann",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tim Pfeiffer",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Hugo Rölleke",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Kofi Amoako",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tim Köhler",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Kevin Jendrzej",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Sidney Raebiger",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Christopher Negele",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Leon Opitz",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Luca Raimund",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Hannes Hermann",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Denis Pfaffenrot",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Nelson Weiper",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Leon-Oumar Wechsel",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tim Drexler",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Eliyas Strasner",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tarek Buchmann",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Pascal Klemens",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Dženan Pejčinović",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Robert Kampa",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Montell Ndikom",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Fabio Torsiello",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Laurin Ulrich",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tim Goller",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Florian Dimmer",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Nassim Elouarti",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Noël Atom",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Simon Walde",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Pascal Fuchs",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Luis Dettling",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jannik Graf",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Justin Diehl",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Youssoufa Moukoko",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Ilyas Ansah",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Semir Kaymakci",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Aaron Zehnter",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Tom Rothe",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mats Pannewig",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Ayman Aourir",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Tim Müller",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Yannic Stein",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Leandro Morgalla",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Philipp Sonn",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Luca Grillemeier",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Hendry Blank",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Niklas Niehoff",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Umut Tohumcu",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Aljoscha Kemlein",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Eyüp Aydın",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Joshua Quarshie",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Niklas Jahn",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mohammed Tolba",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mika Baur",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Damion Downs",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Leon Reichardt",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Robert Kwasigroch",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Niklas Petzsch",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Max Weiß",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Brajan Gruda",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Jonas Nickisch",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Luca Grimpe",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Joshua Krüger",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Bennet Winter",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mattes Hansen",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mehdi Loune",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Marcel Wenig",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Aleksandar Pavlović",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Finn Böhmker",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Franco Schädlich",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mio Backhaus",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Nils Hahne",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Elias Bakatukanda",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Tom Sanne",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Tom Hülsmann",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Muhammed Damar",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Kaylen Reitmaier",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Marius Wörl",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Dennis Kaygin",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mathis Bruns",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Max Finkgräfe",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Daniel Bunk",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Keke Topp",
+      "position": "FWD",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Lukas Ullrich",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Felix Lange",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Luca Böggemann",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Faroukou Cissé",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Julian Eitschberger",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Maximilian Neutgens",
+      "position": "GK",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Linus Gechter",
+      "position": "DEF",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Leon Köhl",
+      "position": "MID",
+      "nation": "Germany",
+      "birthYear": 2004
+    },
+    {
+      "name": "Francesco Camarda",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2008
+    },
+    {
+      "name": "Lorenzo Bonifacio",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Briajan Gjyla",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Filippo Novelli",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Guido Della Rovere",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Joel Malusà",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Alessandro Nunziante",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Tommaso Vannucchi",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Luca Lo Scalzo",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Jonas Arlanch",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2007
+    },
+    {
+      "name": "Giovanni Leoni",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Alessio Di Giorgio",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Filippo Vertua",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Augusto Bando",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Alphadjo Cissè",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Edoardo Scquizzato",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Giulio Biondini",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fabio Rispoli",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Diego Mascardi",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Carlo Ghidini",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Janzel Principi",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Gianmaria D'Angelo Pizzolo",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Salvatore Di Mitri",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Nicola Mosti",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ephraim Yeboah",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Mattia Mannini",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Francesco Cutrona",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Giulio Patrignani",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Leonardo Mendicino",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Mirko Castelnuovo",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fabiano D'Amore",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Davide Renzetti",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Angelo Agostino",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Jakob Tschöll",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Giuseppe Mazzaglia",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Antonio Lagonigro",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Francesco Plaia",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Emanuele Rao",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Amedeo Mellini",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Patrik Hofer",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Simone Pafundi",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Diego Sia",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Tito Gasperini",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Niccolò Guccione",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Marco Romano",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Luigi Sciammarella",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Luca Boncori",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Tommaso Ravaglioli",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Niccolò Fortini",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Maat Daniel Caprini",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Adam Bakoune",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Lorenzo Costantino",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Akim Djibril",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fabio Desole",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Lorenzo Carfora",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ciro Borrelli",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Tommaso Martinelli",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Filippo Cecchini",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2006
+    },
+    {
+      "name": "Patrick Nuamah",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Davide Bartesaghi",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Riccardo Arboscello",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Luigi D'Avino",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Federico Chinetti",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Simon Harrasser",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Dorian Paloschi",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Samuel John Nwachukwu",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Edoardo Olivieri",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tommaso Ghirardello",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Danilo Amato",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ilario Porzi",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alessandro Vinciguerra",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Simone Cortese",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Riccardo Di Trolio",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Wisdom Amey",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Federico Mosca",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Giacomo Marconi",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Benedikt Rottensteiner",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Francesco Borriello",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Simone Leonardi",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Christian Sibilano",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Hemsley Akpa-Chukwu",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Marco Oliva",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Fedele Iovino",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Marcel Perri",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Giovanni D'Aprile",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Francesco Pio Esposito",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tommaso Sperandio",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Luigi Pellegrini",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Damiano Ciucci",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Matteo Brezzo",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Lorenzo Giorgi",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Pietro Comi",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Gabriel Rafele",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Fabio Chiarodia",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Leonardo Colombo",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Giulio Mengucci",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Yehiya Maiga Silvestri",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Francesco Raffaelli",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Edoardo Della Salandra",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Gerardo Fusco",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Luca Lipani",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Simone Calvani",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Pasquale Allocca",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Francesco Lops",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tommaso Leonardi",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tommaso Ferrari",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Kevin Bruno",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Raphael Kofler",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Diego Russo",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mattia Manni",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Lorenzo Russo",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Matteo Michielin",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Bryan Blanco",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Giacomo Stabile",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Francesco Coppola",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Filippo Fischer",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Stefan Dregan",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mario Paura",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Temple Ojinnaka",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Domenico Dachille",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Federico Mangiameli",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Kevin Leone",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Thomas Brahja",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mattia Sala",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jordan Longhi",
+      "position": "FWD",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Filippo Veneran",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alessandro Morlupo",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alex Righetti",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Giovanni Giunti",
+      "position": "MID",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alessandro Calligaris",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Marco Bonugli",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Marco Palestra",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Filippo Salviato",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alessandro Scacchetti",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Manuel Esposito",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Christian Corradi",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Pietro Comuzzo",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jacopo Seghetti",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Filippo Saiani",
+      "position": "DEF",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Manfredi Nespola",
+      "position": "GK",
+      "nation": "Italy",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2007
+    },
+    {
+      "name": "Amidou Doumbouya",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2007
+    },
+    {
+      "name": "Mathys Angely",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2007
+    },
+    {
+      "name": "Kouakou Gadou",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2007
+    },
+    {
+      "name": "Marius Courcoul",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2007
+    },
+    {
+      "name": "Ethan Mbappé",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Sidiki Chérif",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Joachim Kayi Sanda",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Yanis Issoufou",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "George Ilenikhena",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Tidiam Gomis",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Daouda Traoré",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Eli Junior Kroupi",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Mohamed-Amine Bouchenna",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ismail Bouneb",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Lilian Baret",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Paul Argney",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Senny Mayulu",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Yoram Zague",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Arthur Tchaptchet",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Fodé Sylla",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Keyliane Abdallah",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Aboubacar Ali Abdallah",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Bastien Meupiyou",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Warren Zaire-Emery",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Nhoa Sangui",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Axel Kayombo",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Mathis Lambourde",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2006
+    },
+    {
+      "name": "Ewen Jaouen",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Killian Cailloce",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Aaron Malouda",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Rabby Nzingoula",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Leny Yoro",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Samir El Mourabet",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Grégoire Swiderski",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Noah Edjouma",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Randy Bandolo Obam",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ichem Ferrah",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Yoni Gomis",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mamadou Diakhon",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mamadou Sarr",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Valentin Atangana Edoa",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Andrea Dacourt",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Lisandru Olmeta",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jérémy Jacquet",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mohamed Bechikh",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Abdoulaye Kanté",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Justin Bengui João",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Moussa Soumano",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Alane Bedfian",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ayman Aiki",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Lucas Michal",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Noah Raveyre",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Nathan Zézé",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Noha Lemina",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mokrane Bentoumi",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Adame Faïz",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ylies Aradj",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Désiré Doué",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Siaka Bakayoko",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "El Chadaille Bitshiabu",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ilyes Housni",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Côme Bianay Balcot",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Emmanuel Biumla",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jean-Mattéo Bahoya",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Romaric Etonde",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Tidiane Diawara",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mathys Tel",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Aaron Akalé",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Christian Mawissa",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Dehmaine Assoumani",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Enzo Mongo",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Junior Ndiaye",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Saël Kumbedi",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Axel Gueguin",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Guillaume Restes",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Steve Ngoura",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ousmane Touré",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Jeanuël Belocian",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Mahamadou Diawara",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Eliesse Ben Seghir",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "David Tebili",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Anthony Bermont",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Ritchy Valme",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Killian Prouchet",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Trevis Dago",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Noah Lahmadi",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2005
+    },
+    {
+      "name": "Justin Kalumba",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Thérence Koudou",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Nehemiah Fernandez",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Badredine Bouanani",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Robin Risser",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mohamed Hafid",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Wilson Odobert",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Samuel Koeberlé",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mathis Touho",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Ayman Kari",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Yoan Koré",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Axel Guessand",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Joseph Nduquidi",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Christ Mbondi",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Cheick Doumbia",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Vimoj Muntu Wa Mungu",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Kassoum Ouattara",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Amine Messoussa",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Derek Mazou-Sacko",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Kyliane Dong",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Aïman Maurer",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Yanis Chahid",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Tony Strata",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Edan Diop",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Noah Marec",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Willy Kambwala",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Brunnel Tutuana",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Alex Lebarbier",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Keenan Carole",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Issiaka Kamate",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Yacine El Amri",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Sami Tlemcani",
+      "position": "GK",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Malamine Efekele",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Gino Caoki",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Diabé Bolumbu",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Teo Allix",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Nicolas Wasbauer",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Antoine Gauthier",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Johaneko Louis-Jean",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Kévin Danois",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Stredair Owusu Appuah",
+      "position": "FWD",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Antonin Cartillier",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Khalil Fayad",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Alexandre Tunkadi",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Kény Mbala",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Eric N'Jo",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Reda Belahyane",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Antoine Mendy",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Loup-Diwan Gueho",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Gabriel Oualengbe",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Yannis Nahounou",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Aurélien Pelon",
+      "position": "DEF",
+      "nation": "France",
+      "birthYear": 2004
+    },
+    {
+      "name": "Mathéo Bodmer",
+      "position": "MID",
+      "nation": "France",
+      "birthYear": 2004
     }
   ]
 }
